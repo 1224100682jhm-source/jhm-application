@@ -21,8 +21,9 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 - **PORT:** `8000`
 
 ## Participantes
-- [Javier Hernandez](https://github.com/dashboard
-)
+- [Javier Hernandez](https://github.com/dashboard)
+- [Axel López](https://github.com/dashboard)
+
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUmWQTNBC-iHxAYPR6ndXG4a4qeuGwJEEtBkPftgIHA&s=10" width="100%" align="center">
 
