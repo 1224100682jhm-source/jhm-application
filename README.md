@@ -26,3 +26,5 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUmWQTNBC-iHxAYPR6ndXG4a4qeuGwJEEtBkPftgIHA&s=10" width="100%" align="center">
 
+## Descripcion general
+El objetivo del proyecto es comprender GIT
