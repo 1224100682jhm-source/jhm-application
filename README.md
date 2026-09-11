@@ -29,3 +29,4 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 
 ## Descripcion general
 El objetivo del proyecto es comprender GIT
+
